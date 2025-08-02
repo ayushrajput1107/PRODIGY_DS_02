@@ -6,7 +6,7 @@ This project explores the **Titanic dataset** from Kaggle using Python. It invol
 
 ## 📁 Dataset
 
-- Dataset Used: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
+- Dataset Used: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/datasets/brendan45774/test-file)
 - File: `titanic.csv`
 
 ---
